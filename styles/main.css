@@ -1,3 +1,48 @@
 body {
-	background: #009F88;
+
+}
+.a {
+background-image:"images/hero.png”;
+background-repeat:no-repeat;
+}
+
+.hero, .div1, .div2, .div3, .div4,.div5{width:auto;height:550px;maigin:0 auto}
+.hero {
+	background:url(../images/hero.png);
+	background-repeat:no;
+	background-position:center
+
+	height:550px;
+	line-height:500px;
+	text-align:center;
+}
+.div1 {
+	backgroud-color:#FFFFFF;
+	text-align:center
+}
+.div2 {
+	background:#66FFCC;
+	height:600px;
+}
+.div3 {
+	background-color:#FFCC33
+}
+.div4 {
+	background-color:#33CCFF
+}
+.div5 {
+	background-color:#FFFFFF
+}
+.footer {
+	background:#808080;
+	position:fixed;
+  bottom:0px;
+	width: 100%;
+	height:60px;
+	text-align:center;
+	line-height:60px;
+}
+.section{
+	margin: 2cm 19cm 4cm 16cm
+	color:white
 }
